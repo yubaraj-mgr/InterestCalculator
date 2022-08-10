@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  background-color: #dbdf13;
+}
+
+.container {
+  position: relative;
+  top: 5rem;
+  box-shadow: -14px 11px 10px 3px rgba(0, 0, 0, 0.63);
+  background-color: rgba(36, 233, 233, 0.274);
+  border-radius: 15px;
+  border: 3px solid red;
+}
